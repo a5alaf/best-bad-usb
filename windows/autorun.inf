@@ -1,0 +1,4 @@
+[Autorun]
+Open=shithole.bat
+Action=Click here to run the script
+Label=My Script Drive
