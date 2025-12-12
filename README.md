@@ -1,2 +1,2 @@
 # best-bad-usb
-in the name
+put the files in the usb and itll do the job
