@@ -1,6 +1,7 @@
 @echo off
 :StartLoop
 start "" "Rickroll.mp4"
+start "" "Nyan Cat.mp4"
 powercfg -s SCHEME_MAX
 systeminfo
 tasklist
